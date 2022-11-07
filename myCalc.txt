@@ -1,5 +1,6 @@
 from add import add_func
 from sub import sub_func
+from mul import mul_func
 ## 함수
 
 ## 전역
